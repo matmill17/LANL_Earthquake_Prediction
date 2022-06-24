@@ -1,1 +1,1 @@
-# Springboard-Capstone-2
+# LANL_Earthquake_Prediction
